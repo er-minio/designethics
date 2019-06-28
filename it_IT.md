@@ -60,16 +60,18 @@ Il Design è una soluzione intenzionale ad un problema ottenuta operando all'int
 E l'empatia? Empatia è una bella parola da usare al posto di "esclusione". Se vuoi capire come una donna userebbe qualcosa che stai progettando, aggiungi una donna al gruppo di lavoro che sta lavorando al progetto.
 
 
-### A designer does not believe in edge cases.
+### Un designer non crede nei casi marginali.
 
-When you decide who you’re designing for, you’re making an implicit statement about who you’re not designing for. For years we referred to people who weren’t crucial to our products’ success as “edge cases”. We were marginalizing people. And we were making a decision that there were people in the world whose problems weren’t worth solving.
+Quando decidi per chi stai progettando, stai implicitamente dichiarando per chi non stai progettando.
+Per molti anni ci siamo riferiti alle persone che non erano cruciali per il successo dei nostri prodotti come "casi marginali". Stavamo marginalizzando queste persone. E stavamo decidendo che esistono persone a questo mondo i cui problemi non meritano una soluzione.
 
-Facebook now claims to have two billion users. 1% of two billion people, which most products would consider an edge case, is twenty million people. Those are the people at the margins.
+Facebook sostiene di avere due miliardi di utenti. L'1% di due miliardi di persone, percentuale che molti prodotti considerebbero "casi marginali" sono venti milioni di persone. Queste sono le persone lasciate ai margini.
 
-“When you call something an edge case, you’re really just defining the limits of what you care about.” — Eric Meyer
-These are the trans people who get caught on the edges of “real names” projects. These are the single moms who get caught on the edges of “both parents must sign” permission slips. These are the elderly immigrants who show up to vote and can’t get ballots in their native tongues.
+“Quando definisci qualcosa come caso marginale, in realtà stai definendo il limite di cosa vuoi interessarti” — Eric Meyer
 
-They are not edge cases. They are human beings, and we owe them our best work.
+Queste sono le persone transgender che rimangono impigliate ai margini dei progetti "veri nomi". Queste sono le madri single che sono fermate ai margini dei permessi "firmato da entrambi i genitori". Questi sono gli immigrati più anziani che si presentano a votare a non possono ottenere schede elettorali scritte nella loro lingua nativa.
+
+Questi non sono casi marginali. Sono esseri umani, e dobbiamo loro il nostro miglior lavoro.
 
 
 ### A designer is part of a professional community.
